@@ -31,11 +31,5 @@ Donec lacinia aliquet placerat. Vivamus nisl leo, feugiat id eros aliquam, sagit
         Card lul<br>
         Card lul<br>
       </Card>
-      <Card>
-        Card lul<br>
-        Card lul<br>
-        Card lul<br>
-        Card lul<br>
-      </Card>
   </main>
 </template>
