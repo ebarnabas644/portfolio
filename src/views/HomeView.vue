@@ -15,8 +15,6 @@ Nulla semper, lorem vel posuere mattis, nisl urna laoreet dolor, et ultrices jus
 
 Vestibulum commodo volutpat ante et pulvinar. Duis eget porta ex, ac dictum erat. Aenean ut neque porttitor, euismod dolor ac, luctus urna. Cras sodales posuere neque. Nulla id magna sed velit pretium fringilla sed at ex. Nulla non nibh a magna venenatis consequat. Praesent sit amet lorem convallis lacus congue ultrices.
 
-Vestibulum nibh nunc, finibus nec purus quis, fringilla feugiat ex. Praesent vestibulum imperdiet aliquam. Morbi mattis mauris a quam efficitur, eu luctus tellus pretium. Pellentesque nisi nibh, pretium quis viverra ac, efficitur ut est. Morbi imperdiet enim nec fermentum condimentum. In quis eros eu tellus auctor pulvinar. Nam tincidunt posuere quam, eget pulvinar justo. Integer luctus ultricies ante, in dignissim nunc suscipit a. Ut vel lectus nulla. Nam neque ligula, imperdiet nec scelerisque eget, vulputate et turpis. Suspendisse potenti. Nullam metus magna, pellentesque eu turpis id, fermentum condimentum justo. Cras et congue augue.
-
 </h1>
     </div>
     <Card>
